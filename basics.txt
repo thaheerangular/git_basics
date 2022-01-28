@@ -36,4 +36,10 @@ Level 7 [merge conflicts]
 Level 8 [delete branch]
 git branch -d bugfix
 
+Level 8 [remote repository]
+git remote -v
+git remote add origin https://github.com/thaheerangular/git_basics.git
+git push -u origin master
+
+
 
