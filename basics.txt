@@ -28,3 +28,6 @@ git branch [get the current branch]
 git brach dev [create a new branch]
 git checkout dev [checkout a new branch]
 
+Level 6 [git merge]
+git merge dev [execute on the master brnach]
+
