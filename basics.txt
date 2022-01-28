@@ -33,4 +33,7 @@ git merge dev [execute on the master branch]
 
 Level 7 [merge conflicts]
 
+Level 8 [delete branch]
+git branch -d bugfix
+
 
