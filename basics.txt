@@ -19,3 +19,6 @@ git checkout index.html
 - After Staging /Before Commiting
 git reset HEAD index.html
 git checkout index.html
+
+Level 4 [Secret Folder]
+ls .git
