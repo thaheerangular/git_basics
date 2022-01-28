@@ -1,0 +1,10 @@
+-- git basic commands --
+
+Level 1
+git status
+git add . [Add files to staging ara]
+git restore --staged . [if you want to restore files from staging area to work area]
+git commit -m "initial version" [Commit files to staging area]
+git status
+
+Level 2
