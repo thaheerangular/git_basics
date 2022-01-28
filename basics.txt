@@ -8,3 +8,14 @@ git commit -m "initial version" [Commit files to staging area]
 git status
 
 Level 2
+git log
+git diff 41c19d e9bdf93
+git log --oneline
+
+Level 3 [Undo/Revert Changes]
+- Before Staging
+git checkout index.html
+
+- After Staging /Before Commiting
+git reset HEAD index.html
+git checkout index.html
