@@ -22,3 +22,9 @@ git checkout index.html
 
 Level 4 [Secret Folder]
 ls .git
+
+Level 5 [git branches]
+git branch [get the current branch]
+git brach dev [create a new branch]
+git checkout dev [checkout a new branch]
+
