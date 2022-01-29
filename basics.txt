@@ -45,6 +45,15 @@ Level 9 [fetch/pull]
 git fetch
 git pull
 
+Level 10 [reset/revert]
+git reset --hard commit_id
+get push -f
+
+git revert head
+git push
+
+
+
 
 
 
