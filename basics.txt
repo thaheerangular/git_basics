@@ -41,5 +41,13 @@ git remote -v
 git remote add origin https://github.com/thaheerangular/git_basics.git
 git push -u origin master
 
+Level 9 [fetch/pull]
+git fetch
+git pull
+
+
+
+
+
 
 
