@@ -52,6 +52,10 @@ get push -f
 git revert head
 git push
 
+Level 11
+git satsh
+
+
 
 
 
